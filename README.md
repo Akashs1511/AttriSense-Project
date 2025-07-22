@@ -10,9 +10,13 @@ AttriSense is an **intelligent HR analytics tool** that predicts employee attrit
 
 ✅ Secure Login  
 ✅ Upload HR CSV Data  
-✅ Predict Attrition Risk (High/Low)  
+✅ Predict Attrition Risk (High/Low) 
+✅ Separate Analysis Report of each type
 ✅ Download CSV & PDF Reports  
-✅ Send Report via Email  
+✅ Send Report via Email 
+✅ Email Report in Tabular List of each High Rish emp. in PDF
+✅ Report for Improvment Suggestions
+✅ Simplified clear Report Access
 ✅ GenAI HR Advisor for improvement suggestions
 
 ---
